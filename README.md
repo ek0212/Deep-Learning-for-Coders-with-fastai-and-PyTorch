@@ -1,5 +1,6 @@
 # Deep Learning for Coders with fastai & PyTorch Exercises
 Following https://course.fast.ai/
+
 At the end of each notebook is **my personal demo** applying the concept in a new way.
 
 ## Table of Contents
