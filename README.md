@@ -1,22 +1,23 @@
 # Deep Learning for Coders with fastai & PyTorch Exercises
 Following https://course.fast.ai/
+At the end of each notebook is **my personal demo** applying the concept in a new way.
 
 ## Table of Contents
 ### Part 1
 
-- 1: Getting started
-- 2: Deployment
-- 3: Neural net foundations
-- 4: Natural Language (NLP)
-- 5: From-scratch model
-- 6: Random forests
-- 7: Collaborative filtering
-- 8: Convolutions (CNNs)
+- 01: Getting started
+- 02: Deployment
+- 03: Neural net foundations
+- 04: Natural Language (NLP)
+- 05: From-scratch model
+- 06: Random forests
+- 07: Collaborative filtering
+- 08: Convolutions (CNNs)
 
 
 ### Part 2
 
-- 9: Stable Diffusion
+- 09: Stable Diffusion
 - 10: Diving Deeper
 - 11: Matrix multiplication
 - 12: Mean shift clustering
